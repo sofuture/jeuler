@@ -1,2 +1,2 @@
-NB palin=: 3 : '(+/y=|.y)=#y'
-NB timer=:6!:2
+NB. palin=: 3 : '(+/y=|.y)=#y'
+NB. timer=:6!:2
